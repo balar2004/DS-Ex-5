@@ -1,5 +1,7 @@
 ## Ex.No:5 Data Visualization using Matplot Library
-
+### Date : 
+### Name : Bala R
+### Reg No : 212222220007
 ## Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
